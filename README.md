@@ -1,4 +1,4 @@
-# Dipole Farming 🥞
+# Dipole Farming
 
 https://dipoleswap.exchange. Feel free to read the code. More details coming soon.
 
